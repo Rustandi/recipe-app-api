@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe api built Django REST framework.
+Recipe api built with Django REST framework.
